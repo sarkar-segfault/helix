@@ -37,8 +37,5 @@ select = "underline"
 hidden = false
 git-ignore = true
 
-[editor.auto-save]
-focus-lost = true
-
 [editor.soft-wrap]
 enable = true
